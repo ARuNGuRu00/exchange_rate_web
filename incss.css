@@ -1,0 +1,27 @@
+.nav{
+    background-color: rgb(247, 99, 99);
+    height: 80px;
+}
+
+.bname{
+    font-family: "Orbitron", sans-serif;
+}
+
+.banner{
+    background: linear-gradient(to right, rgb(247, 143, 143),rgb(255, 222, 222),rgb(246, 189, 189),rgb(245, 130, 130));
+}
+.h2{
+    font-family: "Saira Stencil One", sans-serif;
+}
+
+body{
+    font-family: "Chakra Petch", sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.links{
+    width:30px;
+}
