@@ -27,3 +27,26 @@ a{
     width:30px;
     user-select: none;
 }
+
+.b1{
+    top:25%;
+    right:20%;
+}
+
+
+.b2{
+    top:5%;
+    left:10%;
+    width:80px; 
+}
+
+.b3{
+    bottom:-20%;
+    right:50%;
+    
+}
+
+.b4{
+    bottom:10%;
+    right:10%;
+}
